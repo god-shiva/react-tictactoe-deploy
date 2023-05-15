@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "react-tictactoe-deploy",
+			"path": "../react-tictactoe-deploy"
+		}
+	],
+	"settings": {}
+}
